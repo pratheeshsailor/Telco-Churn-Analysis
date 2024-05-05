@@ -1,5 +1,6 @@
 # Telco-Churn-Analysis
 **Problem statement**
+
 Given a dataset containing various customer attributes such as gender, age, partner status, internet service type, tenure, etc., our goal is to predict whether a customer will churn or not. Churn prediction is essential for businesses to identify at-risk customers and take proactive measures to retain them. By leveraging historical data and machine learning algorithms, we aim to build a predictive model that can accurately classify customers as churners or non-churners, thereby helping the company reduce customer attrition and improve overall retention strategies.
 **End to End Data/Business Analytics Project (Power BI)**
 This repository contains materials including:
